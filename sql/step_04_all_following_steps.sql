@@ -108,4 +108,5 @@ source step_a111_add_missing_lock_columns.sql;
 source step_a112_users_and_groups_soft_deletion.sql;
 source step_a113_alter_table_medicalinventory.sql;
 source step_a114_medical_type_soft_deletion.sql;
+source u2g_update/step_1_mortuarystays_table.sql;
 source u2g_udapte/step_3_add_column_medicaldsr.sql;

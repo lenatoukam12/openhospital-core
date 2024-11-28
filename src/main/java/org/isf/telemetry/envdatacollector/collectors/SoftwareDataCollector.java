@@ -98,6 +98,7 @@ public class SoftwareDataCollector extends AbstractDataCollector {
 			result.put(CollectorsConstants.APP_VIDEOMODULEENABLED, String.valueOf(GeneralData.VIDEOMODULEENABLED));
 			result.put(CollectorsConstants.APP_XMPPMODULEENABLED, String.valueOf(GeneralData.XMPPMODULEENABLED));
 			result.put(CollectorsConstants.APP_ENHANCEDSEARCH, String.valueOf(GeneralData.ENHANCEDSEARCH));
+			result.put(CollectorsConstants.APP_ENABLEMORTUARYMODULE, String.valueOf(GeneralData.ENABLEMORTUARYMODULE));
 			result.put(CollectorsConstants.APP_INTERNALPHARMACIES, String.valueOf(GeneralData.INTERNALPHARMACIES));
 			result.put(CollectorsConstants.APP_LABEXTENDED, String.valueOf(GeneralData.LABEXTENDED));
 			result.put(CollectorsConstants.APP_LABMULTIPLEINSERT, String.valueOf(GeneralData.LABMULTIPLEINSERT));
