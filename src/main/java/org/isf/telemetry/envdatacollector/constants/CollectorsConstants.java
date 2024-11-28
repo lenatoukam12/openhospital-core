@@ -66,6 +66,7 @@ public interface CollectorsConstants {
 	String APP_VIDEOMODULEENABLED = "app_videomoduleenabled";
 	String APP_XMPPMODULEENABLED = "app_xmppmoduleenabled";
 	String APP_ENHANCEDSEARCH = "app_enhancedsearch";
+	String APP_ENABLEMORTUARYMODULE = "app_enablemortuarymodule";
 	String APP_INTERNALPHARMACIES = "app_internalpharmacies";
 	String APP_LABEXTENDED = "app_labextended";
 	String APP_LABMULTIPLEINSERT = "app_labmultipleinsert";
